@@ -47,7 +47,7 @@ a.navbar-item.is-active {
 
     &::before {
         filter: blur(0.0rem);
-        background-image: url(https://github.com/arudermanlooff/WhatATheme/blob/master/assets/images/homescreen.jpg?raw=true);
+        background-image: url({{https://github.com/arudermanlooff/WhatATheme/blob/master/assets/images/homescreen.jpg?raw=true}});
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
